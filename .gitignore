@@ -1,0 +1,6 @@
+#client side
+client/node_modules
+client/build
+
+# server side
+server/node_modules
